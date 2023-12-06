@@ -1,4 +1,3 @@
-// Jason Zheng 114907558 R30
 import java.util.InputMismatchException;
 import java.util.Scanner;
 /**
