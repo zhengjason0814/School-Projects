@@ -1,4 +1,3 @@
-// Jason Zheng 114907558 R30 Section 8
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
