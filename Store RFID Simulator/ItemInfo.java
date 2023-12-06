@@ -1,5 +1,3 @@
-// Jason Zheng 114907558 R30 Section 8
-
 /**
  * This class made to represent an item and its information,
  * such as the name of the item, price of the item, and the RFID ID number.
