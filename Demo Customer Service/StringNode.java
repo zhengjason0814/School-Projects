@@ -1,4 +1,3 @@
-// Jason Zheng 114907558 R30 Section 8
 /**
  * This class represents a string node for
  * the stack class for the history implementation
