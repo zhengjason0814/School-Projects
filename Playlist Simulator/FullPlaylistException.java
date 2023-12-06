@@ -1,5 +1,3 @@
-// Jason Zheng 114907558 R30
-
 /**
  * This is the custom exception created for when a playlist is either
  * too full for more songs or the array of playlists is
