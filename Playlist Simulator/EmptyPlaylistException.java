@@ -1,5 +1,3 @@
-// Jason Zheng 114907558 R30
-
 /**
  * This is the custom exception created for when a method
  * calls for a song record inside a playlist,
