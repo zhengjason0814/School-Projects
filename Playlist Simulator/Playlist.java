@@ -1,5 +1,3 @@
-// Jason Zheng 114907558 R30
-
 /**
  * This class represents a playlist and what can be done with it,
  * and the song records inside the playlist
