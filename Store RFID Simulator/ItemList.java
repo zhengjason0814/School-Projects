@@ -1,5 +1,3 @@
-// Jason Zheng 114907558 R30 Section 8
-
 /**
  * This class represents a linked list class that will be used to
  * contain item information and manipulate it
