@@ -1,5 +1,3 @@
-// Jason Zheng 114907558 R30
-
 /**
  * This class represents song records inside a playlist,
  * where each song record has variables a song would have in real life.
